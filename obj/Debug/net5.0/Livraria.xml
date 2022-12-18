@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Livraria</name>
+    </assembly>
+    <members>
+        <member name="M:Livraria.Controllers.LivroController.ObterTodos">
+            <summary>
+            Obtém todos os livros.
+            </summary>
+            <returns>Retorna os livros encontrados</returns>
+            <response code="200">Retorna os livros encontrados</response>
+        </member>
+    </members>
+</doc>
