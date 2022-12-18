@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
 
-namespace AspNetCore.WebApi.Extensions
+namespace Livraria.Extensions
 {
     public static class SwaggerSetup
     {
